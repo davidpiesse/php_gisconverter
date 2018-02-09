@@ -4,7 +4,7 @@
     "description": "GIS Data Format Conversion",
     "keywords": ["gis","converter","map","conversion"],
     "homepage": "https://github.com/davidpiesse/php_gisconverter",
-    "license": "BSD",
+    "license": "BSD-4-Clause",
     "authors": [
         {
             "name": "David Piesse",
